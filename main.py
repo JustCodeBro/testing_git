@@ -1,5 +1,5 @@
 def main():
-    print("Version 2")
+    print("Version 3")
 
 
 if __name__ == "__main__":
